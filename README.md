@@ -20,7 +20,7 @@ Or install it yourself as:
 
 TODO: Write usage instructions here
 
-## Contributing
+This Gem is a server, it is unique because it was written in ruby to handle html requests. 
 
 1. Fork it ( https://github.com/[my-github-username]/superrubyserver/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
