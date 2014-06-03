@@ -1,6 +1,6 @@
 # Superrubyserver
 
-TODO: Write a gem description
+This Gem is a server, it is unique because it was written in ruby to handle html requests. 
 
 ## Installation
 
